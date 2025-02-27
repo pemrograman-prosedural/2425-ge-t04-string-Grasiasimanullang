@@ -12,7 +12,7 @@ int main(int _argv, char **_argc) {
     for (int i = 0; i < length; i++) {
       printf("%03d", karakter[i]);
     }
-    
+printf("013");
     return 0;
 }
 
